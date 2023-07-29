@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "6440fe6fc0ff9003ef692fdc"
+  },
+  "name": "Milk",
+  "bestbefore": "Tue Jun 12 2023 00:00:00 GMT+0100 (Central European Standard Time)",
+  "weight": "1l",
+  "link": "https://foodwaste-api.onrender.com/milk",
+  "category": "whole milk",
+  "storage": "Keep refrigerated at or below 40F (4C) at all times. Avoid exposing to direct sunlight or high temperatures.",
+  "emission": 0.79
+},{
+  "_id": {
+    "$oid": "6440fe6fc0ff9003ef692fdd"
+  },
+  "name": "Apple",
+  "storage": "Keep in a cool dry place",
+  "link": "https://foodwaste-api.onrender.com/apple",
+  "category": "red apple",
+  "emission": 0.66
+},{
+  "_id": {
+    "$oid": "6440fe6fc0ff9003ef692fde"
+  },
+  "name": "Bread",
+  "weight": "300 g",
+  "bestbefore": "Fri Jun 02 2023 00:00:00 GMT+0100 (Central European Standard Time)",
+  "storage": "Keep it at room temperature: Store your bread in a cool, dry place at room temperature. Avoid storing it in direct sunlight, as this can cause the bread to dry out and become stale.",
+  "emission": 0.74,
+  "category": "wholewheat bread",
+  "link": "https://foodwaste-api.onrender.com/bread"
+},{
+  "_id": {
+    "$oid": "645c0aef2ea4a13f9ea7503b"
+  },
+  "name": "Meatballs",
+  "weight": "500g",
+  "expiry": "Fri Jul 14 2023 00:00:00 GMT+0100 (Central European Standard Time)",
+  "storage": " Keep refrigerated at or below 40F (4C)",
+  "link": "https://foodwaste-api.onrender.com/meatballs",
+  "emission": 3
+},{
+  "_id": {
+    "$oid": "6464e7168b20d8a1706e288d"
+  },
+  "name": "Tomato",
+  "weight": "100g",
+  "storage": "Store at room temperature, ideally around 68-72F (20-22C). Keep in a cool, dry place, away from direct sunlight",
+  "emission": 0.7
+},{
+  "_id": {
+    "$oid": "646cd54b69d9a42706c6ed70"
+  },
+  "name": "Leeks",
+  "weight": "200g",
+  "storage": "Store at room temperature, ideally around 68-72F (20-22C). Keep in a cool, dry place, away from direct sunlight",
+  "emission": 0.7
+},{
+  "_id": {
+    "$oid": "646d2a2c4835396820799c83"
+  },
+  "name": "Chicken",
+  "weight": "500g",
+  "expiry": "Thu Jun 14 2023 00:00:00 GMT+0100 (Central European Standard Time)",
+  "storage": " Keep refrigerated at or below 40F (4C)",
+  "emission": 3
+}]
